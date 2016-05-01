@@ -1,2 +1,15 @@
 # ar-vuforia-unity-demo
-Augmented Reality demo made with Vuforia and Unity
+Augmented Reality demo made with Vuforia and Unity 5.
+
+I have used one of my books cover as target image to show a 3D model. 
+
+See the demo here: https://vimeo.com/164908588
+
+
+## Images
+
+Image target
+http://imgur.com/R0LuWyV
+
+Screenshots
+http://imgur.com/uku5bJm http://imgur.com/JPn2iPw
