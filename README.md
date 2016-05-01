@@ -9,7 +9,7 @@ See the demo here: https://vimeo.com/164908588
 ## Images
 
 Image target
-http://imgur.com/R0LuWyV
+![png](http://imgur.com/R0LuWyV.png)
 
 Screenshots
-http://imgur.com/uku5bJm http://imgur.com/JPn2iPw
+![png](http://imgur.com/uku5bJm.png) ![png](http://imgur.com/JPn2iPw)
