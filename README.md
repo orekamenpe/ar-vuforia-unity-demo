@@ -5,6 +5,7 @@ I have used one of my books cover as target image to show a 3D model.
 
 See the demo here: https://vimeo.com/164908588
 
+![gif](http://imgur.com/YhkwUeP.gif)
 
 ## Images
 
